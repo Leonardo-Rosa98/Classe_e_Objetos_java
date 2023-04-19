@@ -5,5 +5,7 @@ public class App {
         System.out.println("Modelo: " + meuCarro.modelo);
         System.out.println("Ano: " + meuCarro.ano);
 
+        Clientes cliente =  new Clientes();
+
     }
 }
