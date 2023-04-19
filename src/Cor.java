@@ -5,8 +5,14 @@ public class Cor{
     
     public Cor(int r, int g, int b){
         this.r = r;
-        this.g = b;
-        this.b = b;
+        this.g = g;
+        this.b = b;    
     }
     
-}
+    public Cor(int gray){
+        this.r = gray;
+        this.g = gray;
+        this.b = gray;
+    }
+
+}   
