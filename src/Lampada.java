@@ -1,5 +1,3 @@
-import javax.swing.text.html.HTMLDocument.BlockElement;
-
 public class Lampada{
     boolean ligada;
     boolean desligada;
@@ -9,4 +7,12 @@ public class Lampada{
         this.desligada = desligada;
     }
     
+    public Lampada(boolean ligada){
+        this.ligada = true;
+    }
+
+    public Lampada(){
+        this.ligada = false;   
+
+    }
 }
