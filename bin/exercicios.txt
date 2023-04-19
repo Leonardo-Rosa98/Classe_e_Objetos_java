@@ -1,3 +1,9 @@
 O que são atributos? E o que são métodos?
     atributos são valores ou caracteristicas que atribuimos a uma determinada classe.
     métodos são funções dentro de uma classe que utilizam os atributos para determinados fins. Podemos dizer que os métodos são as ações que aquela classe pode executar.
+
+O  que  é  e  para  que  serve um  método construtor? Quais  as  duas características necessárias para que um método seja o construtor da classe? Exemplifique sua resposta.
+ Um método construtor é usado para criar e inicializar um objeto de uma classe. Ele possui o mesmo nome da classe e pode receber valores externos como argumentos, que devem ser compatíveis com os tipos de dados dos atributos da classe. Além disso, um construtor pode ser sobrecarregado, o que significa que você pode ter várias versões do construtor com diferentes números e tipos de parâmetros.
+
+ O que são e para que servem os métodos de acesso de uma classe? Exemplifique sua resposta:
+ 
