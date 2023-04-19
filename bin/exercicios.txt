@@ -1,0 +1,3 @@
+O que são atributos? E o que são métodos?
+    atributos são valores ou caracteristicas que atribuimos a uma determinada classe.
+    métodos são funções dentro de uma classe que utilizam os atributos para determinados fins. Podemos dizer que os métodos são as ações que aquela classe pode executar.
